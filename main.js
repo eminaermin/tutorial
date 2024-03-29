@@ -10,3 +10,7 @@ function createWindow(){
 }
 
 app.whenReady().then(createWindow);
+
+app.on('window-all-closed', () => {
+    if(process.platform !== 'win32') app.quit;
+})
