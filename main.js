@@ -8,3 +8,5 @@ function createWindow(){
 
     window.loadFile('src/index.html');
 }
+
+app.whenReady().then(createWindow);
