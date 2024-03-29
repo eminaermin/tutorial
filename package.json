@@ -1,0 +1,15 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This is a tutorial to learn how to use Electron with HTML, CSS, and JS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
+}
