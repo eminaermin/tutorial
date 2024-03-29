@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: whitesmoke;
+    padding: 1.5rem;
+}
